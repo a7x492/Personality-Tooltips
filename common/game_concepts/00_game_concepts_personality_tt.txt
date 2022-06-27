@@ -1,0 +1,168 @@
+gentleman = {
+	alias = {gentleman_female}
+}
+honorable = {
+	alias = {honorable_female}
+}
+knave = {
+	alias = {knave_female}
+}
+dishonorable = {
+	alias = {dishonorable_female}
+}
+paragon = {
+	alias = {paragon_female}
+}
+righteous = {
+	alias = {righteous_female}
+}
+blackguard = {
+	alias = {blackguard_female}
+}
+treacherous = {
+	alias = {treacherous_female}
+}
+grasper = {
+	alias = {grasper_female}
+}
+covetous = {
+	alias = {covetous_female}
+}
+follower = {
+	alias = {follower_female}
+}
+content = {
+	alias = {content_female}
+}
+ravener = {
+	alias = {ravener_female}
+}
+rapacious = {
+	alias = {rapacious_female}
+}
+lackey = {
+	alias = {lackey_female}
+}
+ascetic = {
+	alias = {ascetic_female}
+}
+thinker = {
+	alias = {thinker_female}
+}
+rational = {
+	alias = {rational_female}
+}
+fool = {
+	alias = {fool_female}
+}
+irrational = {
+	alias = {irrational_female}
+}
+planner = {
+	alias = {planner_female}
+}
+analytic = {
+	alias = {analytic_female}
+}
+maniac = {
+	alias = {maniac_female}
+}
+insane = {
+	alias= {insane_female}
+}
+gambler = {
+	alias = {gambler_female}
+}
+bold = {
+	alias = {bold_female}
+}
+coward = {
+	alias = {coward_female}
+}
+cowardly = {
+	alias = {cowardly_female}
+}
+adventurer = {
+	alias = {adventurer_female}
+}
+fearless = {
+	alias = {fearless_female}
+}
+craven = {
+	alias = {craven_female}
+}
+spineless = {
+	alias = {spineless_female}
+}
+believer = {
+	alias = {believer_female}
+}
+religious = {
+	alias = {religious_female}
+}
+unbeliever = {
+	alias = {unbeliever_female}
+}
+cynical = {
+	alias = {cynical_female}
+}
+zealot = {
+	alias = {zealot_female}
+}
+zealous = {
+	alias = {zealous_female}
+}
+atheist = {
+	alias = {atheist_female}
+}
+godless = {
+	alias = {godless_female}
+}
+quarreler = {
+	alias = {quarreler_female}
+}
+resentful = {
+	alias = {resentful_female}
+}
+conciliator = {
+	alias = {conciliator_female}
+}
+forgiving = {
+	alias = {forgiving_female}
+}
+antagonist = {
+	alias = {antagonist_female}
+}
+vindictive = {
+	alias = {vindictive_female}
+}
+absolver = {
+	alias = {absolver_female}
+}
+magnanimous = {
+	alias = {magnanimous_female}
+}
+altruist = {
+	alias = {altruist_female}
+}
+compassionate = {
+	alias = {compassionate_female}
+}
+brute = {
+	alias = {brute_female}
+}
+callous = {
+	alias = {callous_female}
+}
+empath = {
+	alias = {empath_female}
+}
+gracious = {
+	alias = {gracious_female}
+}
+villain = {
+	alias = {villain_female}
+}
+evil = {
+	alias = {evil_female}
+}
